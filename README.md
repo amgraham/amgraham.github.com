@@ -1,4 +1,4 @@
 amgraham.github.com
 ===================
 
-My GithHub Page
+My GitHub Page
